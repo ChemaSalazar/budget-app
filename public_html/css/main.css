@@ -54,10 +54,31 @@
 /*    color: white;*/
 /*}*/
 
-/*.txt-center{*/
-/*    text-align: center;*/
-/*}*/
+.txt-center{
+    text-align: center;
+}
 
-.coloor-darkest-green{
+.coloor-darkest-bg-green{
     background-color: #10451d;
+}
+
+.coloor-darkest-bg-green{
+    background-color: #10451d;
+}
+
+.nav-link-warning{
+    color: darkred;
+}
+
+.svg-center{
+    display: block;
+    margin: auto;
+}
+
+.float-right{
+    float: right;
+}
+
+.coloor-txt-medium-green{
+    color: #208b3a;
 }
